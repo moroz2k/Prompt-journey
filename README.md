@@ -42,5 +42,5 @@
 3. В файле pdf_rag_chat.py проверьте путь к PDF-файлу (переменная PDF_PATH).
 
 4. Запустите скрипт:
-```bash
-python pdf_rag_chat.py
+   ```bash
+   python pdf_rag_chat.py
